@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery>
+  <image imageURL="images/college_building.jpg"
+	thumbURL="thumbs/college_building.jpg"
+	linkURL="images/college_building.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Jntuhces\college_building.jpg"
+
+>
+    <title><![CDATA[college_building]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image.jpg"
+	thumbURL="thumbs/image.jpg"
+	linkURL="images/image.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Jntuhces\image.jpg">
+    <title><![CDATA[image]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/image1.jpg"
+	thumbURL="thumbs/image1.jpg"
+	linkURL="images/image1.jpg"
+	linkTarget="_blank"
+	sourcePath="E:\Jntuhces\image1.jpg">
+    <title><![CDATA[image1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
